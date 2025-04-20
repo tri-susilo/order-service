@@ -1,0 +1,6 @@
+.env
+.md
+.dockerignore
+Dockerfile
+node_modules
+package*.json
